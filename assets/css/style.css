@@ -181,17 +181,61 @@ bbody{
 }
 .item-1{
     height: 200px;
-    background: darksalmon;
+    background: darkkhaki;
 }
 .item-2 {
     height: 200px;
-    background: darkred;
+    background: darkmagenta;
 }
 .item-3{
     height: 200px;
-    background: darkgreen;
+    background: darkslategray;
 }
 .item-4{
     height: 200px;
-    background: darkslategray;
+    background: darkgreen;
+}
+.item-5{
+    height: 200px;
+    background: darkred;
+}
+.item-6{
+    height: 200px;
+    background: darksalmon;
+}
+.item-7{
+    height: 200px;
+    background: darkblue;
+}
+.item-8 {
+    height: 200px;
+    background: darkcyan;
+}
+.item-9{
+    height: 200px;
+    background: darkgoldenrod;
+}
+.item-10{
+    height: 200px;
+    background: darkgray;
+}
+.item-11{
+    height: 200px;
+    background: darkolivegreen;
+}
+.item-12{
+    height: 200px;
+    background: darkorange;
+}
+.item-13{
+    height: 200px;
+    background: darkturquoise;
+}
+.item-14{
+    height: 200px;
+    background: darkviolet;
+}
+.item-15{
+    height: 200px;
+    background: darkseagreen;
 }
